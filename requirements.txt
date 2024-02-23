@@ -2,7 +2,7 @@ pandas
 numpy
 streamlit
 torch
-pickle
+pickle5
 tensorflow
 keras
 transformers
